@@ -32,5 +32,5 @@
   <img src="https://devicons.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=llong123&layout=compact&hide=html" alt="llong123" /></p>
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=llong123&show_icons=true" alt="llong123" /></p>
